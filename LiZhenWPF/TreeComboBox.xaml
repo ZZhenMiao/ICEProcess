@@ -1,0 +1,60 @@
+﻿<ItemsControl x:Class="LiZhenWPF.TreeComboBox"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LiZhenWPF"
+      mc:Ignorable="d" 
+      d:DesignHeight="20" d:DesignWidth="100" Background="Black">
+    <ItemsControl.Template>
+        <ControlTemplate TargetType="{x:Type local:TreeComboBox}">
+            <Grid ClipToBounds="False" Height="{TemplateBinding Height}" x:Name="ParentPanel">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="20"/>
+                </Grid.ColumnDefinitions>
+                <Popup Grid.Column="2" StaysOpen="False" IsOpen="{Binding IsChecked, ElementName=PopuButton}" Width="{TemplateBinding Width}" MinHeight="50" Placement="Bottom">
+                    <TreeView ItemTemplate="{TemplateBinding ItemTemplate}" ItemsSource="{TemplateBinding ItemsSource}" Name="ActualTreeView" 
+                                       ScrollViewer.VerticalScrollBarVisibility="Auto">
+                        <TreeView.Resources>
+                            <Style TargetType="{x:Type TreeViewItem}">
+                                <Setter Property="IsExpanded" Value="True"/>
+                            </Style>
+                        </TreeView.Resources>
+                    </TreeView>
+                </Popup>
+                <TextBox Text="{TemplateBinding Text}" IsReadOnly="True"/>
+                <ToggleButton Grid.Column="1" x:Name="PopuButton">
+                    <ToggleButton.Style>
+                        <Style TargetType="ToggleButton">
+                            <Setter Property="Background" Value="#50000000"/>
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="ToggleButton">
+                                        <Border BorderBrush="Gray" BorderThickness="0.5" Background="{TemplateBinding Background}">
+                                            <Grid>
+                                                <Path Fill="White"  >
+                                                    <Path.Data>
+                                                        <PathGeometry Figures="M 5 5 L 15 5 L 10 14"/>
+                                                    </Path.Data>
+                                                </Path>
+                                            </Grid>
+                                        </Border>
+                                        <ControlTemplate.Triggers>
+                                            <Trigger Property="IsMouseOver" Value="True">
+                                                <Setter Property="Background" Value="#20000000"/>
+                                            </Trigger>
+                                            <Trigger Property="IsPressed" Value="True">
+                                                <Setter Property="Background" Value="#80000000"/>
+                                            </Trigger>
+                                        </ControlTemplate.Triggers>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </ToggleButton.Style>
+                </ToggleButton>
+            </Grid>
+        </ControlTemplate>
+    </ItemsControl.Template>
+</ItemsControl>

@@ -1,0 +1,32 @@
+﻿<Window x:Class="LiZhenWPF.SimpleInputor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LiZhenWPF"
+        mc:Ignorable="d"
+        Height="95"
+        Width="240"
+        WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+    <Grid Name="MainGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="24"/>
+        </Grid.RowDefinitions>
+        <TextBlock Name="PropertyName_TextBlock" Grid.Column="0" VerticalAlignment="Center"/>
+        <TextBox x:Name="Inputor_TextBox" Grid.Column="1" TextWrapping="NoWrap" VerticalContentAlignment="Center" FontSize="16"/>
+        <Grid Grid.Row="1" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Name="OK_Button" Margin="0,2,0,1" Grid.Column="1" Width="75" Content="确定"/>
+            <Button Name="Cancel_Button" Margin="0,2,0,1" Grid.Column="0" Width="75" Content="取消"/>
+        </Grid>
+    </Grid>
+</Window>

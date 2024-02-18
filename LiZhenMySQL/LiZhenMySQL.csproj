@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="旧的\**" />
+    <EmbeddedResource Remove="旧的\**" />
+    <None Remove="旧的\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.28" />
+    <PackageReference Include="PropertyChanged.Fody" Version="4.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LiZhenStandard\LiZhenStandard.csproj" />
+  </ItemGroup>
+
+</Project>
