@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ICE-AssetLibrary</id>
+    <version>1.0.0</version>
+    <authors>ICE-AssetLibrary</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="ICE-Model" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="LiZhenMySQL" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="LiZhenStandard" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="LiZhenWPF" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.ObjectModel" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\SyncProjects\ICEProcess\ICE-AssetLibrary\bin\Debug\net5.0-windows\ICE-AssetLibrary.runtimeconfig.json" target="lib\net5.0-windows7.0\ICE-AssetLibrary.runtimeconfig.json" />
+    <file src="D:\SyncProjects\ICEProcess\ICE-AssetLibrary\bin\Debug\net5.0-windows\ICE-AssetLibrary.dll" target="lib\net5.0-windows7.0\ICE-AssetLibrary.dll" />
+  </files>
+</package>

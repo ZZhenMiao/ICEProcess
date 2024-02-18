@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ICE-BackEnd</id>
+    <version>1.0.0</version>
+    <authors>ICE-BackEnd</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="ICE-Model" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="LiZhenMySQL" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="LiZhenStandard" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="LiZhenWPF" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="MySql.Data" version="8.0.28" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\SyncProjects\ICEProcess\ICE-BackEnd\bin\Debug\net7.0-windows\ICE-BackEnd.runtimeconfig.json" target="lib\net7.0-windows7.0\ICE-BackEnd.runtimeconfig.json" />
+    <file src="D:\SyncProjects\ICEProcess\ICE-BackEnd\bin\Debug\net7.0-windows\ICE-BackEnd.dll" target="lib\net7.0-windows7.0\ICE-BackEnd.dll" />
+  </files>
+</package>

@@ -1,0 +1,97 @@
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.deps.json
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.dll
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\ref\LiZhenMySQL.dll
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.pdb
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenStandard.dll
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenStandard.pdb
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csprojAssemblyReference.cache
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.AssemblyInfoInputs.cache
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.AssemblyInfo.cs
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.CoreCompileInputs.cache
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.CopyComplete
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.dll
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\ref\LiZhenMySQL.dll
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.pdb
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.Fody.CopyLocal.cache
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.deps.json
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.dll
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\ref\LiZhenMySQL.dll
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.pdb
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenStandard.dll
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenStandard.pdb
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.AssemblyReference.cache
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.AssemblyInfoInputs.cache
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.AssemblyInfo.cs
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.CoreCompileInputs.cache
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.Fody.CopyLocal.cache
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.CopyComplete
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.dll
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\ref\LiZhenMySQL.dll
+Z:\Projects\编程\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.pdb
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.deps.json
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.dll
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\ref\LiZhenMySQL.dll
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.pdb
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenStandard.dll
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenStandard.pdb
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.Fody.CopyLocal.cache
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.CopyComplete
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.dll
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\ref\LiZhenMySQL.dll
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.pdb
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.deps.json
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.dll
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\ref\LiZhenMySQL.dll
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.pdb
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenStandard.dll
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenStandard.pdb
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.AssemblyInfo.cs
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.Fody.CopyLocal.cache
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.CopyComplete
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.dll
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\ref\LiZhenMySQL.dll
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.pdb
+D:\SyncProjects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenStandard.dll
+D:\SyncProjects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenStandard.pdb
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.AssemblyReference.cache
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.AssemblyInfoInputs.cache
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.AssemblyInfo.cs
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.CoreCompileInputs.cache
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.Fody.CopyLocal.cache
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.CopyComplete
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.dll
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\ref\LiZhenMySQL.dll
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.pdb
+D:\SyncProjects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.deps.json
+D:\SyncProjects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.dll
+D:\SyncProjects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\ref\LiZhenMySQL.dll
+D:\SyncProjects\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.pdb
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.deps.json
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.dll
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\ref\LiZhenMySQL.dll
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenMySQL.pdb
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenStandard.dll
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\bin\Debug\net5.0\LiZhenStandard.pdb
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.AssemblyReference.cache
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.GeneratedMSBuildEditorConfig.editorconfig
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.AssemblyInfoInputs.cache
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.AssemblyInfo.cs
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.CoreCompileInputs.cache
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.Fody.CopyLocal.cache
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.CopyComplete
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.dll
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\ref\LiZhenMySQL.dll
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.pdb
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Debug\net5.0\LiZhenMySQL.csproj.Fody.RuntimeCopyLocal.cache

@@ -1,0 +1,5 @@
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net5.0\LiZhenAutoUpdater.csproj.AssemblyReference.cache
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net5.0\LiZhenAutoUpdater.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net5.0\LiZhenAutoUpdater.AssemblyInfoInputs.cache
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net5.0\LiZhenAutoUpdater.AssemblyInfo.cs
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net5.0\LiZhenAutoUpdater.csproj.CoreCompileInputs.cache

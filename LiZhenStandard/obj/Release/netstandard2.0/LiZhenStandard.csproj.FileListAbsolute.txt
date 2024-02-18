@@ -1,0 +1,12 @@
+D:\SyncProjects\ICEProcess\LiZhenStandard\bin\Release\netstandard2.0\LiZhenStandard.deps.json
+D:\SyncProjects\ICEProcess\LiZhenStandard\bin\Release\netstandard2.0\LiZhenStandard.dll
+D:\SyncProjects\ICEProcess\LiZhenStandard\bin\Release\netstandard2.0\LiZhenStandard.pdb
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Release\netstandard2.0\LiZhenStandard.csproj.AssemblyReference.cache
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Release\netstandard2.0\LiZhenStandard.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Release\netstandard2.0\LiZhenStandard.AssemblyInfoInputs.cache
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Release\netstandard2.0\LiZhenStandard.AssemblyInfo.cs
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Release\netstandard2.0\LiZhenStandard.csproj.CoreCompileInputs.cache
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Release\netstandard2.0\LiZhenStandard.csproj.Fody.CopyLocal.cache
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Release\netstandard2.0\LiZhenStandard.csproj.Fody.RuntimeCopyLocal.cache
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Release\netstandard2.0\LiZhenStandard.dll
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Release\netstandard2.0\LiZhenStandard.pdb

@@ -1,0 +1,17 @@
+D:\SyncProjects\ICEProcess\ICE-Model\bin\Release\net7.0\ICE-Model.deps.json
+D:\SyncProjects\ICEProcess\ICE-Model\bin\Release\net7.0\ICE-Model.dll
+D:\SyncProjects\ICEProcess\ICE-Model\bin\Release\net7.0\ICE-Model.pdb
+D:\SyncProjects\ICEProcess\ICE-Model\bin\Release\net7.0\LiZhenMySQL.dll
+D:\SyncProjects\ICEProcess\ICE-Model\bin\Release\net7.0\LiZhenStandard.dll
+D:\SyncProjects\ICEProcess\ICE-Model\bin\Release\net7.0\LiZhenMySQL.pdb
+D:\SyncProjects\ICEProcess\ICE-Model\bin\Release\net7.0\LiZhenStandard.pdb
+D:\SyncProjects\ICEProcess\ICE-Model\obj\Release\net7.0\ICE-Model.csproj.AssemblyReference.cache
+D:\SyncProjects\ICEProcess\ICE-Model\obj\Release\net7.0\ICE-Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncProjects\ICEProcess\ICE-Model\obj\Release\net7.0\ICE-Model.AssemblyInfoInputs.cache
+D:\SyncProjects\ICEProcess\ICE-Model\obj\Release\net7.0\ICE-Model.AssemblyInfo.cs
+D:\SyncProjects\ICEProcess\ICE-Model\obj\Release\net7.0\ICE-Model.csproj.CoreCompileInputs.cache
+D:\SyncProjects\ICEProcess\ICE-Model\obj\Release\net7.0\ICE-Model.csproj.CopyComplete
+D:\SyncProjects\ICEProcess\ICE-Model\obj\Release\net7.0\ICE-Model.dll
+D:\SyncProjects\ICEProcess\ICE-Model\obj\Release\net7.0\refint\ICE-Model.dll
+D:\SyncProjects\ICEProcess\ICE-Model\obj\Release\net7.0\ICE-Model.pdb
+D:\SyncProjects\ICEProcess\ICE-Model\obj\Release\net7.0\ref\ICE-Model.dll

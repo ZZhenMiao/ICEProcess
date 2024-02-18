@@ -1,0 +1,12 @@
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\bin\Debug\net7.0\LiZhenAutoUpdater.deps.json
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\bin\Debug\net7.0\LiZhenAutoUpdater.dll
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\bin\Debug\net7.0\LiZhenAutoUpdater.pdb
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net7.0\LiZhenAutoUpdater.csproj.AssemblyReference.cache
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net7.0\LiZhenAutoUpdater.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net7.0\LiZhenAutoUpdater.AssemblyInfoInputs.cache
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net7.0\LiZhenAutoUpdater.AssemblyInfo.cs
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net7.0\LiZhenAutoUpdater.csproj.CoreCompileInputs.cache
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net7.0\LiZhenAutoUpdater.dll
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net7.0\refint\LiZhenAutoUpdater.dll
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net7.0\LiZhenAutoUpdater.pdb
+D:\SyncProjects\ICEProcess\LiZhenAutoUpdater\obj\Debug\net7.0\ref\LiZhenAutoUpdater.dll

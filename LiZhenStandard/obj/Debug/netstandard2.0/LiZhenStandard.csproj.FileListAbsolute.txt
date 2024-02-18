@@ -1,0 +1,89 @@
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.deps.json
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.dll
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.pdb
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfoInputs.cache
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfo.cs
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.CoreCompileInputs.cache
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.dll
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.pdb
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csprojAssemblyReference.cache
+D:\Users\frien\Documents\Visual Studio 2019\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.Fody.CopyLocal.cache
+Z:\Projects\编程\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.AssemblyReference.cache
+Z:\Projects\编程\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\编程\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfoInputs.cache
+Z:\Projects\编程\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfo.cs
+Z:\Projects\编程\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.CoreCompileInputs.cache
+Z:\Projects\编程\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.dll
+Z:\Projects\编程\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.pdb
+Z:\Projects\编程\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.deps.json
+Z:\Projects\编程\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.dll
+Z:\Projects\编程\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.pdb
+Z:\Projects\编程\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.Fody.CopyLocal.cache
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.deps.json
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.dll
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.pdb
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.Fody.CopyLocal.cache
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.dll
+C:\Users\admin\Documents\Visual Studio 2019\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.pdb
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.deps.json
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.dll
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.pdb
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfo.cs
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.Fody.CopyLocal.cache
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.dll
+C:\Users\admin\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.pdb
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.AssemblyReference.cache
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.GeneratedMSBuildEditorConfig.editorconfig
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfoInputs.cache
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfo.cs
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.CoreCompileInputs.cache
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.dll
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.pdb
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.deps.json
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.dll
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.pdb
+\\DreamRaid\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.Fody.CopyLocal.cache
+D:\Users\frien\Documents\Projects\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.deps.json
+D:\Users\frien\Documents\Projects\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.dll
+D:\Users\frien\Documents\Projects\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.pdb
+D:\Users\frien\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.AssemblyReference.cache
+D:\Users\frien\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\frien\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfoInputs.cache
+D:\Users\frien\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfo.cs
+D:\Users\frien\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.CoreCompileInputs.cache
+D:\Users\frien\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.Fody.CopyLocal.cache
+D:\Users\frien\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.dll
+D:\Users\frien\Documents\Projects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.pdb
+\\192.168.1.2\SyncWorks\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.deps.json
+\\192.168.1.2\SyncWorks\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.dll
+\\192.168.1.2\SyncWorks\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.pdb
+\\192.168.1.2\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.AssemblyReference.cache
+\\192.168.1.2\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.1.2\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfoInputs.cache
+\\192.168.1.2\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfo.cs
+\\192.168.1.2\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.CoreCompileInputs.cache
+\\192.168.1.2\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.Fody.CopyLocal.cache
+\\192.168.1.2\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.Fody.RuntimeCopyLocal.cache
+\\192.168.1.2\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.dll
+\\192.168.1.2\SyncWorks\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.pdb
+D:\SyncProjects\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.deps.json
+D:\SyncProjects\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.dll
+D:\SyncProjects\ICEProcess\LiZhenStandard\bin\Debug\netstandard2.0\LiZhenStandard.pdb
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.AssemblyReference.cache
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfoInputs.cache
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.AssemblyInfo.cs
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.CoreCompileInputs.cache
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.Fody.CopyLocal.cache
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.csproj.Fody.RuntimeCopyLocal.cache
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.dll
+D:\SyncProjects\ICEProcess\LiZhenStandard\obj\Debug\netstandard2.0\LiZhenStandard.pdb

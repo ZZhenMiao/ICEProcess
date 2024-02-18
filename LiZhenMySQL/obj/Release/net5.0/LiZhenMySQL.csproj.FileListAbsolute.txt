@@ -1,0 +1,17 @@
+D:\SyncProjects\ICEProcess\LiZhenMySQL\bin\Release\net5.0\LiZhenMySQL.deps.json
+D:\SyncProjects\ICEProcess\LiZhenMySQL\bin\Release\net5.0\LiZhenMySQL.dll
+D:\SyncProjects\ICEProcess\LiZhenMySQL\bin\Release\net5.0\ref\LiZhenMySQL.dll
+D:\SyncProjects\ICEProcess\LiZhenMySQL\bin\Release\net5.0\LiZhenMySQL.pdb
+D:\SyncProjects\ICEProcess\LiZhenMySQL\bin\Release\net5.0\LiZhenStandard.dll
+D:\SyncProjects\ICEProcess\LiZhenMySQL\bin\Release\net5.0\LiZhenStandard.pdb
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Release\net5.0\LiZhenMySQL.csproj.AssemblyReference.cache
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Release\net5.0\LiZhenMySQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Release\net5.0\LiZhenMySQL.AssemblyInfoInputs.cache
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Release\net5.0\LiZhenMySQL.AssemblyInfo.cs
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Release\net5.0\LiZhenMySQL.csproj.CoreCompileInputs.cache
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Release\net5.0\LiZhenMySQL.csproj.Fody.CopyLocal.cache
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Release\net5.0\LiZhenMySQL.csproj.Fody.RuntimeCopyLocal.cache
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Release\net5.0\LiZhenMySQL.csproj.CopyComplete
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Release\net5.0\LiZhenMySQL.dll
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Release\net5.0\ref\LiZhenMySQL.dll
+D:\SyncProjects\ICEProcess\LiZhenMySQL\obj\Release\net5.0\LiZhenMySQL.pdb

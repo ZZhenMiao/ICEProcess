@@ -1,0 +1,273 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\ICE-Integrator\\ICE-Integrator.csproj": {}
+  },
+  "projects": {
+    "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\ICE-Integrator\\ICE-Integrator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\ICE-Integrator\\ICE-Integrator.csproj",
+        "projectName": "ICE-Integrator",
+        "projectPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\ICE-Integrator\\ICE-Integrator.csproj",
+        "packagesPath": "C:\\Users\\frien\\.nuget\\packages\\",
+        "outputPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\ICE-Integrator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\ICE-Model\\ICE-Model.csproj": {
+                "projectPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\ICE-Model\\ICE-Model.csproj"
+              },
+              "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenMySQL\\LiZhenMySQL.csproj": {
+                "projectPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenMySQL\\LiZhenMySQL.csproj"
+              },
+              "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenStandard\\LiZhenStandard.csproj": {
+                "projectPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenStandard\\LiZhenStandard.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\ICE-Model\\ICE-Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\ICE-Model\\ICE-Model.csproj",
+        "projectName": "ICE-Model",
+        "projectPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\ICE-Model\\ICE-Model.csproj",
+        "packagesPath": "C:\\Users\\frien\\.nuget\\packages\\",
+        "outputPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\ICE-Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenMySQL\\LiZhenMySQL.csproj": {
+                "projectPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenMySQL\\LiZhenMySQL.csproj"
+              },
+              "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenStandard\\LiZhenStandard.csproj": {
+                "projectPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenStandard\\LiZhenStandard.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenMySQL\\LiZhenMySQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenMySQL\\LiZhenMySQL.csproj",
+        "projectName": "LiZhenMySQL",
+        "projectPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenMySQL\\LiZhenMySQL.csproj",
+        "packagesPath": "C:\\Users\\frien\\.nuget\\packages\\",
+        "outputPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenMySQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenStandard\\LiZhenStandard.csproj": {
+                "projectPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenStandard\\LiZhenStandard.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenStandard\\LiZhenStandard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenStandard\\LiZhenStandard.csproj",
+        "projectName": "LiZhenStandard",
+        "projectPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenStandard\\LiZhenStandard.csproj",
+        "packagesPath": "C:\\Users\\frien\\.nuget\\packages\\",
+        "outputPath": "\\\\192.168.1.2\\SyncWorks\\ICEProcess\\LiZhenStandard\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\frien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
