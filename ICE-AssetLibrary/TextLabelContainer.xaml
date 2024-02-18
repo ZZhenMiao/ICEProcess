@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="ICE_AssetLibrary.TextLabelContainer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ICE_AssetLibrary"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="24"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="60"/>
+                <ColumnDefinition Width="60"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Name="nameBlock" FontSize="14" VerticalAlignment="Center" Background="LightSteelBlue" Grid.ColumnSpan="4" />
+            <RadioButton Grid.Column="1" Content="或" VerticalAlignment="Center" IsChecked="True"/>
+            <RadioButton Grid.Column="2" Content="并" VerticalAlignment="Center"/>
+        </Grid>
+        <WrapPanel Name="wrapPanel" Grid.Row="1">
+        </WrapPanel>
+    </Grid>
+</UserControl>

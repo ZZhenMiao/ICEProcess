@@ -1,0 +1,40 @@
+﻿<Window x:Class="ICE_AssetLibrary.Win_AssetOrganizer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ICE_AssetLibrary"
+        mc:Ignorable="d"
+        Title="资产收纳" Height="450" Width="600">
+    <Grid Margin="8,4,8,4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="36"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="AssetLabels_TextBox" Height="34" Text="资产信息" VerticalContentAlignment="Center" FontSize="16" IsReadOnly="True" Grid.Row="0"/>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="26"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="12"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="将以下选中的资产文件" VerticalAlignment="Center" FontSize="14"/>
+            <TextBlock Text="归纳至具有相同资产信息的文件夹中" Grid.Column="2" VerticalAlignment="Center" FontSize="14"/>
+            <ListView x:Name="AssetFiles_ListView" Grid.Row="1"/>
+            <ListView x:Name="AssetFolders_ListView" Grid.Row="1" Grid.Column="2"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Button Name="Cancel_Button" Content="取  消" Width="96" Height="32"/>
+            <Button Grid.Column="1" Name="OK_Button" Content="收  纳" Width="96" Height="32"/>
+        </Grid>
+    </Grid>
+</Window>

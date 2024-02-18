@@ -1,0 +1,26 @@
+﻿<Window x:Class="ICE_BackEnd.Win_SemblableFolderSelector"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ICE_BackEnd"
+        mc:Ignorable="d"
+        Title="选择资产文件夹" FontSize="16" Height="360" Width="518" Topmost="True" WindowStartupLocation="CenterScreen">
+    <Grid Margin="4,4,4,4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="32"/>
+        </Grid.RowDefinitions>
+        <TextBlock TextWrapping="Wrap" FontSize="14" Text="    在现有的资产中找到了与即将归档的这些资产相似的资产文件夹（暨资产类型、标签、所属项目和归档路径均相同），建议将它们直接存放到其中的某个资产文件夹中即可，而无需创建为独立资产。"/>
+        <ListBox Name="ListBox" Grid.Row="1"/>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Name="Cancel_Button" Content="否" Width="42" Height="18" FontSize="12"/>
+            <Button Name="OK_Button" Content="确定" Width="82" Height="24" Grid.Column="1"/>
+        </Grid>
+    </Grid>
+</Window>

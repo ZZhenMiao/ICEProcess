@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ICE-AssetLibrary": {
+      "commandName": "Project",
+      "nativeDebugging": false,
+      "jsWebView2Debugging": false
+    }
+  }
+}
