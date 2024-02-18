@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>ICE_Common</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ICE-Model\ICE-Model.csproj" />
+    <ProjectReference Include="..\LiZhenMySQL\LiZhenMySQL.csproj" />
+    <ProjectReference Include="..\LiZhenStandard\LiZhenStandard.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="Window_Login.xaml">
+      <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
+    </Page>
+  </ItemGroup>
+
+</Project>

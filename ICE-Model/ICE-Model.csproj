@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>ICE_Model</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Classes-Old.cs" />
+    <Compile Remove="Classes.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Classes-Old.cs" />
+    <None Include="Classes.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LiZhenMySQL\LiZhenMySQL.csproj" />
+    <ProjectReference Include="..\LiZhenStandard\LiZhenStandard.csproj" />
+  </ItemGroup>
+
+</Project>
